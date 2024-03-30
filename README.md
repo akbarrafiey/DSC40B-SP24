@@ -27,6 +27,6 @@ seo:
 Here is how to get started:
 
 - Read the [syllabus](syllabus.md).
-- Join our Campuswire message board and Gradescope with the email invitations you received earlier this week. If you didn't receive an email, you can use access code NXG68W for Gradescope (the link above for Ed will automatically let you join the class without a code).
+- Join our Campuswire message board and Gradescope with the email invitations you received earlier this week. If you didn't receive an email, you can use access code XXZVRD for Gradescope (the link above for Ed will automatically let you join the class without a code).
 - a [course calendar](calendar.md),
 - a [staff](staff.md) page
