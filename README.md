@@ -31,4 +31,5 @@ Here is how to get started:
 - a [course calendar](calendar.md),
 - a [staff](staff.md) page
 
-{{ site.modules.week01.md }}
+{% include site.modules.week01.md %}
+
