@@ -32,4 +32,4 @@ Here is how to get started:
 - a [staff](staff.md) page
 
 
-{% include modules/week-01.md %}
+{% include week-01.md %}
