@@ -4,15 +4,18 @@ title: Week 1
 
 Apr 02
 : **LEC 01**{: .label .label-gray }[Introduction](#)
-  : [1.1](#)
+  : [Marked LEC](#)
 : **Lab 01 Release**{: .label .label-yellow } [On Gradescope](#)
 
 Apr 03
+: **HW 1 due**{: .label .label-red }
+  : [Solution](#)
 : **HW 01 Release**{: .lable .lable-red }
   : [Solution](#)
 
 Apr 04
 : **LEC 02**{: .label .label-gray }[Asymptotic Time Complexity, pt. I](#)
+  : [Marked LEC](#)
   : [Solution](#)
 
 Sep 30
