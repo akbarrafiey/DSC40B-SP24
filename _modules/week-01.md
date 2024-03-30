@@ -9,7 +9,7 @@ Apr 02
 
 Apr 03
 : **HW 1 posted**{: .label .label-red }
-  : [PDF](#)
+  : [PDF ](#)
   : [Solution](#)
 
 Apr 04
