@@ -21,6 +21,7 @@ seo:
     *Discussion:*
         3:00p-3:50p	W in PCYNH	109
 
+<div style="background-color: #f2f2f2; padding: 10px;">
 # Welcome to DSC 40B!
 
 Here is how to get started:
@@ -31,3 +32,4 @@ Here is how to get started:
 - Discussion sessions: Wednesday at 3:00p-3:50p	in PCYNH	109. (There will be no discussion April 03).
 - a [course calendar](calendar.md),
 - a [staff](staff.md) page,
+</div>
