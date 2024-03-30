@@ -10,7 +10,7 @@ Apr 02
 Apr 03
 : **HW 1 due**{: .label .label-red }
   : [Solution](#)
-: **HW 01 Release**{: .lable .lable-red }
+: **HW 1 Release**{: .lable .lable-red }
   : [Solution](#)
 
 Apr 04
