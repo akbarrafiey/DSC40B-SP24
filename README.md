@@ -5,8 +5,21 @@ nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: DSC 40B
 ---
+# Theoretical Foundations of Data Science II
+## DSC 40B, Spring 2024 at UC San Diego
+
+## Instructor
+
+- **Dr. Akbar Rafiey**<br>
+    `arafiey@ucsd.edu`<br>
+    [webpage](https://akbarrafiey.github.io)<br>
+    *Lecture:*
+        6:30p-7:50p T/Th in PCYNH	109
+        <br>
+    *Discussion:*
+        3:00p-3:50p	W in PCYNH	109
 
 # Welcome to DSC 40B!
 
