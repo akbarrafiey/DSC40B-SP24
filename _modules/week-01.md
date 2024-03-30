@@ -8,9 +8,9 @@ Apr 02
 : **Lab 01 Release**{: .label .label-yellow } [On Gradescope](#)
 
 Apr 03
-: **HW 1 due**{: .label .label-red }
+: **HW 1 posted**{: .label .label-red }
   : [Solution](#)
-: **HW 1 Release**{: .lable .lable-red }
+: **HW 1 release**{: .lable .lable-red }
   : [Solution](#)
 
 Apr 04
