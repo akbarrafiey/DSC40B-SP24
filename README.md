@@ -21,8 +21,7 @@ seo:
     *Discussion:*
         3:00p-3:50p	W in PCYNH	109
 
-```markdown
-<div style="background-color: #f2f2f2; padding: 10px;">
+<div class="light-gray-box">
 # Welcome to DSC 40B!
 
 Here is how to get started:
@@ -34,4 +33,3 @@ Here is how to get started:
 - a [course calendar](calendar.md),
 - a [staff](staff.md) page,
 </div>
-```
