@@ -1,13 +1,18 @@
 ---
-title: Introduction to Java
+title: Week 1
 ---
 
-Sep 28
-: [Java & Git](#)
+April 02
+: **LEC 01**{: .label .label-gray }[Introduction](#)
   : [1.1](#)
+: **Lab 01 Release**{: .label .label-yellow } [On Gradescope](#)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
+April 03
+: **DIS 01**{: .lable .lable-blue }
+: **HW 01 Release**{: .lable .lable-red }[Time Complexity]
+
+April 04
+: **LEC 02**{: .label .label-gray }[Asymptotic Time Complexity, pt. I](#)
   : [Solution](#)
 
 Sep 30
