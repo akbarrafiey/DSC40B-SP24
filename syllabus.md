@@ -31,8 +31,7 @@ couple of websites.
 
 We'll be using [Campuswire](${ vars.campuswire.url }) as our course message
 board. You should have received an invitation via email, but if not you should
-be able to join by clicking the link above and using the access code `${
-vars.campuswire.code }`. Be sure sure to join Campuswire as soon as possible,
+be able to join by clicking the link above and using the access code `XXZVRD`. Be sure sure to join Campuswire as soon as possible,
 since all course communication will be done through it.
 
 If you have a question about anything to do with the course  &mdash; if you're
