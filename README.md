@@ -32,4 +32,4 @@ Here is how to get started:
 - a [staff](staff.md) page
 
 
-{% include week-01.md %}
+{{ site.modules['week-01'].content | markdownify }}
