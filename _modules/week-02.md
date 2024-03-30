@@ -14,7 +14,7 @@ Apr 10
 : **DIS 01**{: .label .label-green }
 : **HW 1 due**{: .label .label-red }
 : **HW 2 posted**{: .label .label-red }
-  : [PDF](#)
+  : [PDF ](#)
   : [Solution](#)
 
 Apr 11
