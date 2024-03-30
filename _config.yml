@@ -17,8 +17,8 @@ title: DSC 40B - Theoretical Foundations of Data Science II
 tagline: DSC 40B
 description: Theoretical Foundations of Data Science II
 author: Akbar Rafiey
-baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/class-DSC40B' # the subpath of your site, e.g. /blog
+url: 'https://akbarrafiey.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
