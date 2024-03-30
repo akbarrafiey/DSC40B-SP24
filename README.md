@@ -16,20 +16,17 @@ seo:
     `arafiey@ucsd.edu`<br>
     [webpage](https://akbarrafiey.github.io)<br>
     *Lecture:*
-        6:30p-7:50p T/Th in PCYNH	109
+        Tuesday and Thursday at 6:30p-7:50p in PCYNH 109
         <br>
     *Discussion:*
-        3:00p-3:50p	W in PCYNH	109
+        Wednesday at 3:00p-3:50p	in PCYNH	109. (There will be no discussion April 03).
 
-<div class="light-gray-box">
+
 # Welcome to DSC 40B!
 
 Here is how to get started:
 
 - Read the [syllabus](syllabus.md).
-- Join our Ed message board and Gradescope with the email invitations you received earlier this week. If you didn't receive an email, you can use access code NXG68W for Gradescope (the link above for Ed will automatically let you join the class without a code).
-- Lectures: Tuesday and Thursday at 6:30p-7:50p in PCYNH 109
-- Discussion sessions: Wednesday at 3:00p-3:50p	in PCYNH	109. (There will be no discussion April 03).
+- Join our Campuswire message board and Gradescope with the email invitations you received earlier this week. If you didn't receive an email, you can use access code NXG68W for Gradescope (the link above for Ed will automatically let you join the class without a code).
 - a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-</div>
+- a [staff](staff.md) page
