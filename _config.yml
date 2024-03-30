@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: DSC 40B - Theoretical Foundations of Data Science II
 tagline: DSC 40B
-description: Theoretical Foundations of Data Science II
+description: DSC 40B
 author: Akbar Rafiey
 baseurl: '/DSC40B-SP24' # the subpath of your site, e.g. /blog
 url: 'https://akbarrafiey.github.io' # the base hostname & protocol for your site, e.g. http://example.com
