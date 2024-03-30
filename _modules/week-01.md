@@ -2,16 +2,16 @@
 title: Week 1
 ---
 
-April 02
+Apr 02
 : **LEC 01**{: .label .label-gray }[Introduction](#)
   : [1.1](#)
 : **Lab 01 Release**{: .label .label-yellow } [On Gradescope](#)
 
-April 03
-: **DIS 01**{: .lable .lable-blue }
+Apr 03
 : **HW 01 Release**{: .lable .lable-red }[Time Complexity]
+  : DUE: Wed, Apr 10, 11:59pm
 
-April 04
+Apr 04
 : **LEC 02**{: .label .label-gray }[Asymptotic Time Complexity, pt. I](#)
   : [Solution](#)
 
