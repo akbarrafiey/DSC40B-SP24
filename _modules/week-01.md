@@ -8,8 +8,8 @@ Apr 02
 : **Lab 01 Release**{: .label .label-yellow } [On Gradescope](#)
 
 Apr 03
-: **HW 01 Release**{: .lable .lable-red }[Time Complexity]
-  : DUE: Wed, Apr 10, 11:59pm
+: **HW 01 Release**{: .lable .lable-red }
+  : [Solution](#)
 
 Apr 04
 : **LEC 02**{: .label .label-gray }[Asymptotic Time Complexity, pt. I](#)
