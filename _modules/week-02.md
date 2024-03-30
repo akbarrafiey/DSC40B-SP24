@@ -1,23 +1,21 @@
 ---
-title: Basic Data Structures
+title: Week 2
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Apr 07
+: **Lab 01 DUE**{: .label .label-yellow }
+: **Lab 02 posted**{: .label .label-yellow } [On Gradescope](#)
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
+Apr 09
+: **LEC 03**{: .label .label-gray }[Asymptotic Time Complexity, pt. II](#)
+  : [Marked LEC](#)
+
+Apr 10
+: **DIS 01**{: .label .label-green }
+: **HW 1 due**{: .label .label-red }
+: **HW 2 posted**{: .label .label-red }
   : [Solution](#)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
-
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
-
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+Apr 11
+: **LEC 04**{: .label .label-gray }[Expected Time and Lower Bounds](#)
+  : [Marked LEC](#)
