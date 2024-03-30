@@ -31,6 +31,4 @@ Here is how to get started:
 - a [course calendar](calendar.md),
 - a [staff](staff.md) page
 
-{% for module in site.modules %}
-{{ module }}
-{% endfor %}
+{{ site.modules.week01.md }}
