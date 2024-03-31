@@ -24,7 +24,7 @@ seo:
 
 # Welcome to DSC 40B!
 
-Here is how to get started:
+Here is how to get started
 
 - Read the [syllabus](syllabus.md).
 - Join our Campuswire message board and Gradescope with the email invitations you received earlier this week. If you didn't receive an email, you can use access code XXZVRD for Gradescope (the link above for Ed will automatically let you join the class without a code).
