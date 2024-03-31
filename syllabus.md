@@ -85,7 +85,7 @@ You will be able to find the lecture recordings at [podcast.ucsd.edu](https://po
 
 Course staff, including tutors, TAs, and instructors, will hold office hours
 regularly throughout the week. Please see the [office
-hours](#office_hours.md) page for the schedule and for instructions.
+hours](https://akbarrafiey.github.io/DSC40B-SP24/office_hours/) page for the schedule and for instructions.
 
 
 ## Discussions
@@ -354,7 +354,7 @@ the purest measure of your individual understanding. This policy is not meant to
 be punitive: If your exam scores are not above passing after several attempts,
 it indicates that you might be better served by retaking the class with a fresh
 start before moving on to later courses which will draw upon the material from
-${ vars.course_name }.
+DSC 40B.
 
 ## Grading
 
