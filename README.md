@@ -32,5 +32,5 @@ Here is how to get started:
 - a [staff](staff.md) page
 
 
-
+{{  site.modules[0]  }}
 
