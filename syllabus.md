@@ -6,9 +6,6 @@ course is run; check out the [frequently asked questions](#faq) for answers to
 some common ones. If you don't find what you're looking for here, feel free to
 make a post on [Campuswire](${ vars.campuswire.url }).
 
-Here is what the syllabus will cover:
-
-[TOC]
 
 ## Instructor
 
