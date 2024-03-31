@@ -26,9 +26,9 @@ couple of websites.
 
 ### Campuswire
 
-We'll be using [Campuswire](${ vars.campuswire.url }) as our course message
+We'll be using [Campuswire](https://campuswire.com/p/GAA99D8BF) as our course message
 board. You should have received an invitation via email, but if not you should
-be able to join by clicking the link above and using the access code `XXZVRD`. Be sure sure to join Campuswire as soon as possible,
+be able to join by clicking the link above and using the access code `0853`. Be sure sure to join Campuswire as soon as possible,
 since all course communication will be done through it.
 
 If you have a question about anything to do with the course  &mdash; if you're
@@ -46,17 +46,17 @@ student if you feel that you know the answer.
 ### Gradescope
 
 We'll be using 
-[Gradescope](${ vars.gradescope.url }) for
+[Gradescope](https://www.gradescope.com/courses/760595) for
 homework submission and grading. Most of the assignments will be a mixture of math and
 coding, and the coding parts are usually autograded via Gradescope.,
 You should have received an email invitation for Gradescope, but if not you can join with code
-`${ vars.gradescope.code }`.
+`XXZVRD`.
 
 
 ### Canvas
 
 We will not be using Canvas. All course materials will be available at
-[dsc40b.com](http://dsc40b.com) or [Gradescope](${ vars.gradescope.url }).
+[course webpage](https://akbarrafiey.github.io/DSC40B-SP24/) or [Gradescope](https://www.gradescope.com/courses/760595).
 
 
 ### Required Materials
@@ -85,7 +85,7 @@ You will be able to find the lecture recordings at [podcast.ucsd.edu](https://po
 
 Course staff, including tutors, TAs, and instructors, will hold office hours
 regularly throughout the week. Please see the [office
-hours](./office_hours.html) page for the schedule and for instructions.
+hours](#office_hours.md) page for the schedule and for instructions.
 
 
 ## Discussions
