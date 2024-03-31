@@ -31,7 +31,9 @@ Here is how to get started:
 - a [course calendar](calendar.md),
 - a [staff](staff.md) page
 
-{% assign specific_module = site.modules | where: "name", "week-01.md" | first %}
-{{ specific_module }}
+{% for module in site.modules %}
+  {{ module.path }}
+{% endfor %}
+
 
 
