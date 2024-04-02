@@ -4,7 +4,7 @@ Welcome to DSC 40B in Spring 2024!
 This page should answer most of the questions you might have about how the
 course is run; check out the [frequently asked questions](#faq) for answers to
 some common ones. If you don't find what you're looking for here, feel free to
-make a post on [Campuswire](${ vars.campuswire.url }).
+make a post on [Campuswire](https://campuswire.com/p/GAA99D8BF).
 
 
 ## Instructor
@@ -337,7 +337,7 @@ performance on the same material in a later exam.
 first redemption section on the final (though you could have taken both), and you
 receive an "A". Your midterm scores are now "A" and "B".
 
-The redemption exams will be held on the date scheduled by the registrar: Tuesday, June 11.
+The redemption exams will be held on the date scheduled by the registrar: **Tuesday, June 11**.
 
 Note that the topics from Lectures 16, 17, and 18 are not on any exam. These will
 instead be tested in the [Super Homework](#the-super-homework).
