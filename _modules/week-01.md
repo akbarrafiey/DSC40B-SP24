@@ -11,7 +11,8 @@ Apr 02
 
 Apr 03
 : **HW 1 posted**{: .label .label-red }
-  : [PDF ](#) &nbsp;&nbsp;
+  : [PDF ](homeworks/HW01/HW01.pdf) &nbsp;&nbsp;
+  : [LaTeX template](homeworks/HW01/template.zip) &nbsp;&nbsp;
   : [Solution](#)
 
 Apr 04
