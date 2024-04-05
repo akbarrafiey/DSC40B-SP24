@@ -17,6 +17,6 @@ Apr 03
 
 Apr 04
 : **LEC 02**{: .label .label-gray }Asymptotic Time Complexity, pt. I
-  : [PDF](#) &nbsp;&nbsp;
+  : [PDF](lectures/02-time-complexity-p1/Lec02.pdf) &nbsp;&nbsp;
   : [Marked-PDF](#)
 
