@@ -2,21 +2,22 @@
 title: Week 2
 ---
 
-Apr 07
-: **Lab 01 DUE**{: .label .label-yellow }
-: **Lab 02 posted**{: .label .label-yellow } [On Gradescope](#)
-
 Apr 09
-: **LEC 03**{: .label .label-gray }[Asymptotic Time Complexity, pt. II](#)
-  : [Marked LEC](#)
+: **LEC 03**{: .label .label-gray } Asymptotic Time Complexity, pt. II
+  : [PDF](#) &nbsp;&nbsp;
+  : [Marked-PDF](#)
+: **Lab 02 Release**{: .label .label-yellow } 
+  : [On Gradescope](#)
 
 Apr 10
-: **DIS 01**{: .label .label-green }
-: **HW 1 due**{: .label .label-red }
-: **HW 2 posted**{: .label .label-red }
-  : [PDF ](#)
+: **Discussion 01**{: .label .label-green}
+: **HW 02 posted**{: .label .label-red }
+  : [PDF ](#) &nbsp;&nbsp;
+  : [LaTeX template](#) &nbsp;&nbsp;
   : [Solution](#)
 
 Apr 11
-: **LEC 04**{: .label .label-gray }[Expected Time and Lower Bounds](#)
-  : [Marked LEC](#)
+: **LEC 04**{: .label .label-gray }Best, Worst, Average Time Complexity
+  : [PDF]() &nbsp;&nbsp;
+  : [Marked-PDF]()
+

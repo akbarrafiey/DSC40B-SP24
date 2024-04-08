@@ -3,5 +3,5 @@ name: Jennifer Hung
 role: Teaching Assistant
 email: 	yhung@ucsd.edu
 website: 
-photo: 
+photo: Jennifer.jpg
 ---

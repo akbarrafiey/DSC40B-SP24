@@ -10,7 +10,7 @@ Apr 02
   : [On Gradescope](#)
 
 Apr 03
-: **HW 1 posted**{: .label .label-red }
+: **HW 01 posted**{: .label .label-red }
   : [PDF ](homeworks/HW01/HW01.pdf) &nbsp;&nbsp;
   : [LaTeX template](homeworks/HW01/template.zip) &nbsp;&nbsp;
   : [Solution](#)
