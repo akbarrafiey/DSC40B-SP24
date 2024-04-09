@@ -4,7 +4,7 @@ title: Week 2
 
 Apr 09
 : **LEC 03**{: .label .label-gray } Asymptotic Time Complexity, pt. II
-  : [PDF](#) &nbsp;&nbsp;
+  : [PDF](lectures/03-time-complexity-p2/Lec03.pdf) &nbsp;&nbsp;
   : [Marked-PDF](#)
 : **Lab 02 Release**{: .label .label-yellow } 
   : [On Gradescope](#)
