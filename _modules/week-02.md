@@ -11,6 +11,7 @@ Apr 09
 
 Apr 10
 : **Discussion 01**{: .label .label-green}
+  : [PDF ](discussion/discussion-01.pdf) &nbsp;&nbsp;
 : **HW 02 posted**{: .label .label-red }
   : [PDF ](#) &nbsp;&nbsp;
   : [LaTeX template](#) &nbsp;&nbsp;
