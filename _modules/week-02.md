@@ -13,8 +13,8 @@ Apr 10
 : **Discussion 01**{: .label .label-green}
   : [PDF ](discussion/discussion-01.pdf) &nbsp;&nbsp;
 : **HW 02 posted**{: .label .label-red }
-  : [PDF ](#) &nbsp;&nbsp;
-  : [LaTeX template](#) &nbsp;&nbsp;
+  : [PDF ](homeworks/HW02/HW02.pdf) &nbsp;&nbsp;
+  : [LaTeX template](homeworks/HW02/template.zip) &nbsp;&nbsp;
   : [Solution](#)
 
 Apr 11
