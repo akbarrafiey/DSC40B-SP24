@@ -20,5 +20,5 @@ Apr 10
 Apr 11
 : **LEC 04**{: .label .label-gray }Best, Worst, Average Time Complexity
   : [PDF](lectures/04-avg-case/Lec04.pdf) &nbsp;&nbsp;
-  : [Marked-PDF]()
+  : [Marked-PDF](lectures/04-avg-case/Lec04-marked.pdf)
 
