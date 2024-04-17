@@ -11,7 +11,7 @@ Apr 16
 
 Apr 17
 : **Discussion 02**{: .label .label-green}
-  : [PDF ](#) &nbsp;&nbsp;
+  : [PDF ](discussion/discussion-02.pdf) &nbsp;&nbsp;
   : [Solution](#)
 : **HW 03 posted**{: .label .label-red }
   : [PDF ](#) &nbsp;&nbsp;
