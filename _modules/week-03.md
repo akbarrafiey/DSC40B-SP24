@@ -5,7 +5,7 @@ title: Week 3
 Apr 16
 : **LEC 05**{: .label .label-gray } Binary Search, Recurrences
   : [PDF](lectures/05-binary_search-recurrences/Lec05.pdf) &nbsp;&nbsp;
-  : [Marked-PDF](#)
+  : [Marked-PDF](lectures/05-binary_search-recurrences/Lec05-marked.pdf)
 : **Lab 03 Release**{: .label .label-yellow } 
   : [On Gradescope](#)
 
