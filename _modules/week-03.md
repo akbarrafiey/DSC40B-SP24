@@ -12,14 +12,14 @@ Apr 16
 Apr 17
 : **Discussion 02**{: .label .label-green}
   : [PDF ](discussion/discussion-02.pdf) &nbsp;&nbsp;
-  : [Solution](#)
+  : [Solution](discussion/discussion-02-marked.pdf)
 : **HW 03 posted**{: .label .label-red }
-  : [PDF ](#) &nbsp;&nbsp;
-  : [LaTeX template](#) &nbsp;&nbsp;
+  : [PDF ](homeworks/HW03/HW03.pdf) &nbsp;&nbsp;
+  : [LaTeX template](homeworks/HW03/template.zip) &nbsp;&nbsp;
   : [Solution](#)
 
 Apr 18
 : **LEC 06**{: .label .label-gray } Sorting
-  : [PDF](#) &nbsp;&nbsp;
+  : [PDF](lectures/06-sorting/Lec06.pdf) &nbsp;&nbsp;
   : [Marked-PDF](#)
 

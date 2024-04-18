@@ -13,7 +13,7 @@ Apr 03
 : **HW 01 posted**{: .label .label-red }
   : [PDF ](homeworks/HW01/HW01.pdf) &nbsp;&nbsp;
   : [LaTeX template](homeworks/HW01/template.zip) &nbsp;&nbsp;
-  : [Solution](#)
+  : [Solution](homeworks/HW01/HW01-solution.pdf)
 
 Apr 04
 : **LEC 02**{: .label .label-gray }Asymptotic Time Complexity, pt. I
