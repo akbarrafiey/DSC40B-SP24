@@ -21,5 +21,5 @@ Apr 17
 Apr 18
 : **LEC 06**{: .label .label-gray } Sorting
   : [PDF](lectures/06-sorting/Lec06.pdf) &nbsp;&nbsp;
-  : [Marked-PDF](#)
+  : [Marked-PDF](lectures/06-sorting/Lec06-marked.pdf)
 
