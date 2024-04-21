@@ -2,23 +2,21 @@
 title: Week 5
 ---
 
-Apr 09
-: **LEC 03**{: .label .label-gray } Asymptotic Time Complexity, pt. II
-  : [PDF](lectures/03-time-complexity-p2/Lec03.pdf) &nbsp;&nbsp;
-  : [Marked-PDF](lectures/03-time-complexity-p2/Lec03-marked.pdf)
+Apr 30
+: **LEC 09**{: .label .label-gray } Hashing
+  : [PDF](lectures/09-hashing/Lec09.pdf) &nbsp;&nbsp;
+  : [Marked-PDF](lectures/09-hashing/Lec09-marked.pdf)
 : **Lab 02 Release**{: .label .label-yellow } 
   : [On Gradescope](#)
 
-Apr 10
-: **Discussion 01**{: .label .label-green}
-  : [PDF ](discussion/discussion-01.pdf) &nbsp;&nbsp;
-: **HW 02 posted**{: .label .label-red }
-  : [PDF ](homeworks/HW02/HW02.pdf) &nbsp;&nbsp;
-  : [LaTeX template](homeworks/HW02/template.zip) &nbsp;&nbsp;
+May 01
+: **Discussion 04**{: .label .label-green}
+  : [PDF ](discussion/discussion-04.pdf) &nbsp;&nbsp;
+: **HW 05 posted**{: .label .label-red }
+  : [PDF ](homeworks/HW05/HW05.pdf) &nbsp;&nbsp;
+  : [LaTeX template](homeworks/HW05/template.zip) &nbsp;&nbsp;
   : [Solution](#)
 
-Apr 11
-: **LEC 04**{: .label .label-gray }Best, Worst, Average Time Complexity
-  : [PDF](lectures/04-avg-case/Lec04.pdf) &nbsp;&nbsp;
-  : [Marked-PDF](lectures/04-avg-case/Lec04-marked.pdf)
+May 02
+: **Midterm 01**{: .label .label-purple }
 

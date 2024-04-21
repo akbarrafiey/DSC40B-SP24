@@ -2,23 +2,23 @@
 title: Week 4
 ---
 
-Apr 09
-: **LEC 03**{: .label .label-gray } Asymptotic Time Complexity, pt. II
-  : [PDF](lectures/03-time-complexity-p2/Lec03.pdf) &nbsp;&nbsp;
-  : [Marked-PDF](lectures/03-time-complexity-p2/Lec03-marked.pdf)
-: **Lab 02 Release**{: .label .label-yellow } 
+Apr 23
+: **LEC 07**{: .label .label-gray } Quickselect
+  : [PDF](lectures/07-quickselect/Lec07.pdf) &nbsp;&nbsp;
+  : [Marked-PDF](#)
+: **Lab 04 Release**{: .label .label-yellow } 
   : [On Gradescope](#)
 
-Apr 10
-: **Discussion 01**{: .label .label-green}
-  : [PDF ](discussion/discussion-01.pdf) &nbsp;&nbsp;
-: **HW 02 posted**{: .label .label-red }
-  : [PDF ](homeworks/HW02/HW02.pdf) &nbsp;&nbsp;
-  : [LaTeX template](homeworks/HW02/template.zip) &nbsp;&nbsp;
+Apr 24
+: **Discussion 03**{: .label .label-green}
+  : [PDF ](discussion/discussion-03.pdf) &nbsp;&nbsp;
+: **HW 04 posted**{: .label .label-red }
+  : [PDF ](homeworks/HW04/HW04.pdf) &nbsp;&nbsp;
+  : [LaTeX template](#) &nbsp;&nbsp;
   : [Solution](#)
 
-Apr 11
-: **LEC 04**{: .label .label-gray }Best, Worst, Average Time Complexity
-  : [PDF](lectures/04-avg-case/Lec04.pdf) &nbsp;&nbsp;
-  : [Marked-PDF](lectures/04-avg-case/Lec04-marked.pdf)
+Apr 25
+: **LEC 08**{: .label .label-gray } Binary Search Trees
+  : [PDF](lectures/08-bst/Lec08.pdf) &nbsp;&nbsp;
+  : [Marked-PDF](#)
 

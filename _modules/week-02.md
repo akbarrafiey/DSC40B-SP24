@@ -16,7 +16,7 @@ Apr 10
 : **HW 02 posted**{: .label .label-red }
   : [PDF ](homeworks/HW02/HW02.pdf) &nbsp;&nbsp;
   : [LaTeX template](homeworks/HW02/template.zip) &nbsp;&nbsp;
-  : [Solution](#)
+  : [Solution](homeworks/HW02/HW02-solution.pdf)
 
 Apr 11
 : **LEC 04**{: .label .label-gray }Best, Worst, Average Time Complexity
