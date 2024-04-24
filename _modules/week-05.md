@@ -18,5 +18,5 @@ May 01
   : [Solution](#)
 
 May 02
-: **Midterm 01**{: .label .label-purple }
+: **Midterm 01**{: .label .label-purple } 
 

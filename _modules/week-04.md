@@ -5,7 +5,7 @@ title: Week 4
 Apr 23
 : **LEC 07**{: .label .label-gray } Quickselect
   : [PDF](lectures/07-quickselect/Lec07.pdf) &nbsp;&nbsp;
-  : [Marked-PDF](#)
+  : [Marked-PDF](lectures/07-quickselect/Lec07-marked.pdf)
 : **Lab 04 Release**{: .label .label-yellow } 
   : [On Gradescope](#)
 
