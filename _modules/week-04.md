@@ -15,7 +15,7 @@ Apr 24
   : [Solution](discussion/discussion-03-marked.pdf)
 : **HW 04 posted**{: .label .label-red }
   : [PDF ](homeworks/HW04/HW04.pdf) &nbsp;&nbsp;
-  : [LaTeX template](#) &nbsp;&nbsp;
+  : [LaTeX template](homeworks/HW04/template.zip) &nbsp;&nbsp;
   : [Solution](#)
 
 Apr 25
