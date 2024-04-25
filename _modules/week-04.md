@@ -12,7 +12,7 @@ Apr 23
 Apr 24
 : **Discussion 03**{: .label .label-green}
   : [PDF ](discussion/discussion-03.pdf) &nbsp;&nbsp;
-  : [Solution](#)
+  : [Solution](discussion/discussion-03-marked.pdf)
 : **HW 04 posted**{: .label .label-red }
   : [PDF ](homeworks/HW04/HW04.pdf) &nbsp;&nbsp;
   : [LaTeX template](#) &nbsp;&nbsp;
