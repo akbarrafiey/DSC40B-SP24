@@ -21,5 +21,5 @@ Apr 24
 Apr 25
 : **LEC 08**{: .label .label-gray } Binary Search Trees
   : [PDF](lectures/08-bst/Lec08.pdf) &nbsp;&nbsp;
-  : [Marked-PDF](#)
+  : [Marked-PDF](lectures/08-bst/Lec08-marked.pdf)
 

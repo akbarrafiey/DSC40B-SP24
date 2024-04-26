@@ -16,7 +16,7 @@ Apr 17
 : **HW 03 posted**{: .label .label-red }
   : [PDF ](homeworks/HW03/HW03.pdf) &nbsp;&nbsp;
   : [LaTeX template](homeworks/HW03/template.zip) &nbsp;&nbsp;
-  : [Solution](#)
+  : [Solution](homeworks/HW03/HW03-solution.pdf)
 
 Apr 18
 : **LEC 06**{: .label .label-gray } Sorting
