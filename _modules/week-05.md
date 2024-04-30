@@ -6,7 +6,7 @@ Apr 30
 : **LEC 09**{: .label .label-gray } Hashing
   : [PDF](lectures/09-hashing/Lec09.pdf) &nbsp;&nbsp;
   : [Marked-PDF](lectures/09-hashing/Lec09-marked.pdf)
-: **Lab 02 Release**{: .label .label-yellow } 
+: **Lab 05 Release**{: .label .label-yellow } 
   : [On Gradescope](#)
 
 May 01
