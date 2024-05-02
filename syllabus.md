@@ -62,7 +62,7 @@ We will not be using Canvas. All course materials will be available at
 ### Required Materials
 
 You will not need to purchase any materials for this course; we'll use lecture slides the main
-resource, as well as Justin Eldridge's [course notes](./materials/default/notes/book.pdf).
+resource, as well as Justin Eldridge's [course notes](https://dsc-courses.github.io/dsc40b-2022-fa/materials/default/notes/book.pdf).
 If you'd like additional textbooks to study from, we can recommend these:
 
 - Dasgupta, Papadimitriou, Vazirani; *Algorithms*
