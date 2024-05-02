@@ -16,7 +16,7 @@ Apr 24
 : **HW 04 posted**{: .label .label-red }
   : [PDF ](homeworks/HW04/HW04.pdf) &nbsp;&nbsp;
   : [LaTeX template](homeworks/HW04/template.zip) &nbsp;&nbsp;
-  : [Solution](#)
+  : [Solution](homeworks/HW04/HW04-solution.pdf)
 
 Apr 25
 : **LEC 08**{: .label .label-gray } Binary Search Trees
