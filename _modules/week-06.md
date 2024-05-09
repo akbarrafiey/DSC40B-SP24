@@ -12,6 +12,7 @@ May 07
 May 08
 : **Discussion 05**{: .label .label-green}
   : [PDF ](discussion/discussion-05.pdf) &nbsp;&nbsp;
+  : [Solution](discussion/discussion-05-marked.pdf)
 : **HW 06 posted**{: .label .label-red }
   : [PDF ](homeworks/HW06/HW06.pdf) &nbsp;&nbsp;
   : [LaTeX template](homeworks/HW06/template.zip) &nbsp;&nbsp;
