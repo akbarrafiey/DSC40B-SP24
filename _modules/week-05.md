@@ -16,7 +16,7 @@ May 01
 : **HW 05 posted**{: .label .label-red }
   : [PDF ](homeworks/HW05/HW05.pdf) &nbsp;&nbsp;
   : [LaTeX template](homeworks/HW05/template.zip) &nbsp;&nbsp;
-  : [Solution](#)
+  : [Solution](homeworks/HW05/HW05-solution.pdf)
 
 May 02
 : **Midterm 01**{: .label .label-purple } 
