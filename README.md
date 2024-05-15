@@ -39,3 +39,6 @@ seo:
 {{  site.modules[4]  }}
 {{  site.modules[5]  }}
 {{  site.modules[6]  }}
+{{  site.modules[7]  }}
+{{  site.modules[8]  }}
+{{  site.modules[9]  }}
