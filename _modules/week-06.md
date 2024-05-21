@@ -16,7 +16,7 @@ May 08
 : **HW 06 posted**{: .label .label-red }
   : [PDF ](homeworks/HW06/HW06.pdf) &nbsp;&nbsp;
   : [LaTeX template](homeworks/HW06/template.zip) &nbsp;&nbsp;
-  : [Solution](#)
+  : [Solution](homeworks/HW06/HW06-solution.pdf)
 
 May 09
 : **LEC 11**{: .label .label-gray } Breadth First Search
