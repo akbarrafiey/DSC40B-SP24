@@ -16,7 +16,7 @@ May 15
 : **HW 07 posted**{: .label .label-red }
   : [PDF ](homeworks/HW07/HW07.pdf) &nbsp;&nbsp;
   : [LaTeX template](homeworks/HW07/template.zip) &nbsp;&nbsp;
-  : [Solution](#)
+  : [Solution](homeworks/HW07/HW07-marked.pdf)
 
 May 16
 : **LEC 13**{: .label .label-gray } Depth First Search
