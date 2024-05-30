@@ -16,7 +16,7 @@ May 22
 : **HW 08 posted**{: .label .label-red }
   : [PDF ](homeworks/HW08/HW08.pdf) &nbsp;&nbsp;
   : [LaTeX template](homeworks/HW08/template.zip) &nbsp;&nbsp;
-  : [Solution](#)
+  : [Solution](homeworks/HW08/HW08-marked.pdf)
 
 May 23
 : **LEC 15**{: .label .label-gray } Dijkstra's Algorithm

@@ -13,10 +13,7 @@ Jun 05
 : **Discussion 09**{: .label .label-green}
   : [PDF ](discussion/discussion-09.pdf) &nbsp;&nbsp;
   : [Solution](discussion/discussion-09-marked.pdf)
-: **HW 10 posted**{: .label .label-red }
-  : [PDF ](homeworks/HW10/HW10.pdf) &nbsp;&nbsp;
-  : [LaTeX template](homeworks/HW10/template.zip) &nbsp;&nbsp;
-  : [Solution](#)
+
 
 Jun 06
 : **LEC 18**{: .label .label-gray } Complexity Theory (Optional)
