@@ -19,6 +19,6 @@ May 29
   : [Solution](#)
 
 May 30
-: **Midterm 02**{: .label .label-gray }
+: **Midterm 02**{: .label .label-purple }
   : [Sample](Sample-Exam/MT2-sample.pdf) &nbsp;&nbsp;
   : [Solution](Sample-Exam/MT2-sample-solution.pdf)

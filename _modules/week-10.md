@@ -6,8 +6,6 @@ Jun 04
 : **LEC 17**{: .label .label-gray } Kruskal's Algorithm
   : [PDF](lectures/17-kruskal/Lec17.pdf) &nbsp;&nbsp;
   : [Marked-PDF](lectures/17-kruskal/Lec17-marked.pdf)
-: **Lab 10 Release**{: .label .label-yellow } 
-  : [On Gradescope](#)
 
 Jun 05
 : **Discussion 09**{: .label .label-green}
