@@ -19,5 +19,7 @@ May 01
   : [Solution](homeworks/HW05/HW05-solution.pdf)
 
 May 02
-: **Midterm 01**{: .label .label-purple } 
+: **Midterm 01**{: .label .label-purple }
+  : [Sample](Sample-Exam/MT1-sample.pdf) &nbsp;&nbsp;
+  : [Solution](Sample-Exam/MT1-sample-solution.pdf) 
 
