@@ -12,11 +12,11 @@ Apr 23
 Apr 24
 : **Discussion 03**{: .label .label-green}
   : [PDF ](discussion/discussion-03.pdf) &nbsp;&nbsp;
-  : [Solution](discussion/discussion-03-marked.pdf)
+  : [Solution](#)
 : **HW 04 posted**{: .label .label-red }
   : [PDF ](homeworks/HW04/HW04.pdf) &nbsp;&nbsp;
   : [LaTeX template](homeworks/HW04/template.zip) &nbsp;&nbsp;
-  : [Solution](homeworks/HW04/HW04-solution.pdf)
+  : [Solution](#)
 
 Apr 25
 : **LEC 08**{: .label .label-gray } Binary Search Trees

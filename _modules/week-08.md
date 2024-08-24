@@ -12,11 +12,11 @@ May 21
 May 22
 : **Discussion 07**{: .label .label-green}
   : [PDF ](discussion/discussion-07.pdf) &nbsp;&nbsp;
-  : [Solution](discussion/discussion-07-marked.pdf)
+  : [Solution](#)
 : **HW 08 posted**{: .label .label-red }
   : [PDF ](homeworks/HW08/HW08.pdf) &nbsp;&nbsp;
   : [LaTeX template](homeworks/HW08/template.zip) &nbsp;&nbsp;
-  : [Solution](homeworks/HW08/HW08-marked.pdf)
+  : [Solution](#)
 
 May 23
 : **LEC 15**{: .label .label-gray } Dijkstra's Algorithm

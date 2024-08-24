@@ -12,7 +12,7 @@ May 28
 May 29
 : **Discussion 08**{: .label .label-green}
   : [PDF ](discussion/discussion-08.pdf) &nbsp;&nbsp;
-  : [Solution](discussion/discussion-08-marked.pdf)
+  : [Solution](#)
 : **HW 09 posted**{: .label .label-red }
   : [PDF ](homeworks/HW09/HW09.pdf) &nbsp;&nbsp;
   : [LaTeX template](homeworks/HW09/template.zip) &nbsp;&nbsp;
@@ -21,4 +21,4 @@ May 29
 May 30
 : **Midterm 02**{: .label .label-purple }
   : [Sample](Sample-Exam/MT2-sample.pdf) &nbsp;&nbsp;
-  : [Solution](Sample-Exam/MT2-sample-solution.pdf)
+  : [Solution](#)

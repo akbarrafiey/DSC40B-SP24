@@ -12,11 +12,11 @@ May 14
 May 15
 : **Discussion 06**{: .label .label-green}
   : [PDF ](discussion/discussion-06.pdf) &nbsp;&nbsp;
-  : [Solution](discussion/discussion-06-marked.pdf)
+  : [Solution](#)
 : **HW 07 posted**{: .label .label-red }
   : [PDF ](homeworks/HW07/HW07.pdf) &nbsp;&nbsp;
   : [LaTeX template](homeworks/HW07/template.zip) &nbsp;&nbsp;
-  : [Solution](homeworks/HW07/HW07-marked.pdf)
+  : [Solution](#)
 
 May 16
 : **LEC 13**{: .label .label-gray } Depth First Search

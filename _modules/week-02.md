@@ -12,11 +12,11 @@ Apr 09
 Apr 10
 : **Discussion 01**{: .label .label-green}
   : [PDF ](discussion/discussion-01.pdf) &nbsp;&nbsp;
-  : [Solution](discussion/discussion-01-marked.pdf)
+  : [Solution](#)
 : **HW 02 posted**{: .label .label-red }
   : [PDF ](homeworks/HW02/HW02.pdf) &nbsp;&nbsp;
   : [LaTeX template](homeworks/HW02/template.zip) &nbsp;&nbsp;
-  : [Solution](homeworks/HW02/HW02-solution.pdf)
+  : [Solution](#)
 
 Apr 11
 : **LEC 04**{: .label .label-gray }Best, Worst, Average Time Complexity

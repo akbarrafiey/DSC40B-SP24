@@ -10,7 +10,7 @@ Jun 04
 Jun 05
 : **Discussion 09**{: .label .label-green}
   : [PDF ](discussion/discussion-09.pdf) &nbsp;&nbsp;
-  : [Solution](discussion/discussion-09-marked.pdf)
+  : [Solution](#)
 
 
 Jun 06
